@@ -9,7 +9,7 @@ export default function Footer() {
           </div>
           <div className="flex gap-4">
             <a
-              href="https://github.com"
+              href="https://github.com/NizarHelius"
               target="_blank"
               rel="noopener noreferrer"
               className="text-slate-400 hover:text-blue-400 transition-colors"
@@ -17,7 +17,7 @@ export default function Footer() {
               GitHub
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/nizar-barhdadi-732178309"
               target="_blank"
               rel="noopener noreferrer"
               className="text-slate-400 hover:text-blue-400 transition-colors"
